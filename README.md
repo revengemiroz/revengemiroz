@@ -1,6 +1,6 @@
 ### Hi there, I'm Miroz Devkota - aka [revengemiroz] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Web Developer!
 - 🔭 I’m currently working on a Weekly Project that happens to last for more than a month!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn the ropes of Js
