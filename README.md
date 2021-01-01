@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Weekly Project that happens to last for more than a month!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn the ropes of Js
-- 🥅 2020 Goals: Get more mastery in React Js
+- 🥅 2021 Goals: Get more mastery in React Js
 - ⚡ Fun fact: I love to play games like: League of Legend, Valorant, TemTem
 
 ### Connect with me:
